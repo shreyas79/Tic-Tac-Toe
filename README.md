@@ -12,5 +12,5 @@ A simple client file, which connects to socket and communicates with server as w
 *Better the architecture so as to the business logic lies in the client, which does not make a difference in speed in applications like theese , but is a better design standard considering the high computing power of devices these days <br />
 *Modify the existing code to work completely for all the cases<br />
 *Front end using simple library called tkinter<br />
-*Better exception handling<br />
+*Better exception handling <br />
 * Few of the code can be efficiently implmented say O(1)<br />
