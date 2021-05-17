@@ -16,3 +16,9 @@ A simple client file, which connects to socket and communicates with server as w
 *Update the requirements.txt <br />
 *Few of the code can be efficiently implmented say O(1)<br />
 
+
+**ISSUES**<br />
+
+The client was not receivng the messages from socket, tried debugging but I think its browser or jupyter configuration issue, will look into it
+have attached screenshots
+
