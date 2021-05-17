@@ -13,4 +13,6 @@ A simple client file, which connects to socket and communicates with server as w
 *Modify the existing code to work completely for all the cases<br />
 *Front end using simple library called tkinter<br />
 *Better exception handling <br />
+*Update the requirements.txt <br />
 *Few of the code can be efficiently implmented say O(1)<br />
+
